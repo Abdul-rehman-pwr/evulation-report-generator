@@ -8,7 +8,7 @@ export default function EvaluationPage() {
       <Head>
         <title>Employee Evaluation</title>
       </Head>
-      <div style={{marginTop: "2250px"}}>
+      <div style={{marginTop: "2350px"}}>
         <InfoSection />
         </div>
     </>
